@@ -40,7 +40,6 @@ I rarely stay in one thing for too long… once I learn something, I get excited
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,7 +48,6 @@ I rarely stay in one thing for too long… once I learn something, I get excited
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -71,10 +69,12 @@ I rarely stay in one thing for too long… once I learn something, I get excited
 # ✍️ Random Dev Quote
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I+don't+chase+perfection+—+I+chase+curiosity.;Learning+one+thing+usually+leads+me+to+ten+more.;Still+figuring+things+out...+and+enjoying+the+process+🚀" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+```yaml
+"I don't chase perfection —
+I chase curiosity,
+and somehow it always leads me somewhere interesting." 🚀
+```
+
+</div>
