@@ -69,12 +69,10 @@ I rarely stay in one thing for too long… once I learn something, I get excited
 # ✍️ Random Dev Quote
 
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I+don't+chase+perfection+—+I+chase+curiosity.;Learning+one+thing+usually+leads+me+to+ten+more.;Still+figuring+things+out...+and+enjoying+the+process+🚀" />
+</p>
 
-```yaml
-"I don't chase perfection —
-I chase curiosity,
-and somehow it always leads me somewhere interesting." 🚀
-```
-
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
