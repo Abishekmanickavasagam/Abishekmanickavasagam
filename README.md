@@ -35,14 +35,26 @@ I rarely stay in one thing for too long… once I learn something, I get excited
 ---
 
 # 💻 Tech Stack:
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI / Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Database & Tools
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 # 📊 GitHub Stats:
@@ -52,13 +64,12 @@ I rarely stay in one thing for too long… once I learn something, I get excited
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekmanickavasagam&theme=tokyonight&layout=compact)
 
 ---
-
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Abishekmanickavasagam&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=Abishekmanickavasagam&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"Football taught me consistency. Curiosity taught me everything else."* ⚽
